@@ -2,7 +2,7 @@ const musicians = ["John Lennon", "Paul McCartney", "George Harrison", "Ringo St
 
 const instruments = ["Guitar", "Bass Guitar", "Lead Guitar", "Drums"];
 
-var new
+var BeatlesLoops = [];
 
 function theBeatlesPlay(musicians, instruments){
   for(var i=0; i<musicians.length; i++){
