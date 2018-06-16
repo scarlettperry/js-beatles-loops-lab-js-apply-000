@@ -6,6 +6,7 @@ function theBeatlesPlay(musicians, instruments){
   for(var i=0; i<musicians.length; i++){
     for (var j=0; j<instruments.length; j++){
       const BeatlesLoops = [i]+" plays "+[j]
+      console.log(BeatlesLoops);
     }
     
   }
