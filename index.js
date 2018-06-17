@@ -8,6 +8,4 @@ function theBeatlesPlay(musicians, instruments){
       BeatlesLoops.push(musicians[i] +" plays "+ instruments[i]);
       return BeatlesLoops;
     }
-    
-  }
 }
